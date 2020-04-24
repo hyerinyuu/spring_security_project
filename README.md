@@ -1,4 +1,4 @@
-# Spring Security를 이용한 이메일 인증을 받는 회원가입과 로그인, 관리자페이지 구현
+# Spring Security를 이용한 이메일 인증을 받는 회원가입과<br/> 로그인, 관리자페이지 구현
 * Framework : Spring 3.x
 * DB : MySQL
 * CSS : HTML5, BootStrap4, jQuery
