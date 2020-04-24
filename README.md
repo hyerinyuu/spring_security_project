@@ -1,3 +1,23 @@
+# Spring Security를 이용한 로그인/회원가입과 관리자페이지 구현
+* Framework : Spring 3.x
+* DB : MySQL
+* CSS : HTML5, BootStrap4, jQuery
+
+## 구현 목표
+* spring security에 대한 총체적 이해
+* authority를 이용한 user/admin 권한 구분 및 접근 제한
+
+## Screenshots
+<div>
+  <img src="https://user-images.githubusercontent.com/56293116/80183258-790c4700-8643-11ea-9eda-9a0251a6d309.PNG">
+</div>
+<div>
+  <img src="https://user-images.githubusercontent.com/56293116/80183277-80335500-8643-11ea-9607-be7976e5e73f.PNG">
+</div>
+
+* 자세한 내용은 [여기](https://github.com/hyerinyuu/spring_security_project/blob/master/spring_security_ppt_pdf.pdf)에서 확인하실 수 있습니다.
+
+
 ## Security와 관련 용어
 
 #### 접근주체(Principal)
