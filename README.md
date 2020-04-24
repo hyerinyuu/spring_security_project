@@ -1,4 +1,5 @@
-# Spring Security를 이용한 로그인/회원가입과 관리자페이지 구현
+# Spring Security를 이용한 
+# 이메일 인증을 받는 로그인/회원가입과 관리자페이지 구현
 * Framework : Spring 3.x
 * DB : MySQL
 * CSS : HTML5, BootStrap4, jQuery
@@ -6,6 +7,7 @@
 ## 구현 목표
 * spring security에 대한 총체적 이해
 * authority를 이용한 user/admin 권한 구분 및 접근 제한
+* 이메일 인증 기능 구현
 
 ## Screenshots
 <div>
